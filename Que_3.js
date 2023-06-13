@@ -1,3 +1,4 @@
+//Write a JavaScript program that uses a for loop to iterate over the characters in a string and counts the number of vowels.
 const str = "Hello World";
 let vowelCount = 0;
 for(i in str){
